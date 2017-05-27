@@ -1,0 +1,7 @@
+Peut etre qu'on devrait créer une classe "ecluse" qui contient tous les composants, ça serait surement moins laid
+
+Et en fait ce qu'on doit faire c'est bien l'image qu'on a vu sur le net
+En gros quand le prof parle de "simulation" il veut dire une simulation de l'IHM (parce qu'il imagine une IHM physique)
+du coup on est bien partis
+
+par contre je sais pas trop comment faire les 10000000 connections entre les éléments proprement (signaux/slots)

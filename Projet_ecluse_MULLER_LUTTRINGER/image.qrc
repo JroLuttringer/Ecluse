@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/valve_closed.png</file>
+    <file>images/valve_open.png</file>
+    <file>images/river.png</file>
+</qresource>
+</RCC>
